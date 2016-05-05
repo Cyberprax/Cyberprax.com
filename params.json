@@ -1,6 +1,6 @@
 {
   "name": "Cyberprax.GitHub.io",
   "tagline": "Sitio web para proyectos de Cyberprax",
-  "body": "### Repositorios\r\nhttps://github.com/Cyberprax/Cyberprax.github.io\r\n",
+  "body": " <div class=\"card-panel teal lighten-2\"></div>\r\n### Repositorios\r\nhttps://github.com/Cyberprax/Cyberprax.github.io\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
